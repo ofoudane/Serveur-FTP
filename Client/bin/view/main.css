@@ -1,0 +1,16 @@
+.succes-color {
+	-fx-text-fill: #03dac5;
+}
+
+
+.danger-color{
+	-fx-text-fill: #fb3604;
+}
+
+.success-bg{
+	-fx-background-color: #03dac5;
+}
+
+.danger-bg{
+	-fx-background-color : #fb3604;
+}
